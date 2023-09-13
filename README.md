@@ -5,6 +5,14 @@ print('Hello World')
 class self():
   def __init__():
     self.name = 'Jojo Tamang'
+    self.tools = {
+      'languages': ['jupyter notebooks', 'google collab', 'python', 'R']
+      'eda': ['pandas', 'numpy', 'matplotlib.pyplot', 'seaborn', 'plotly'] 
+      'database': ['postgresql'],
+      'frontend': ['css', 'html', 'javascript', 'reactjs'],
+    } 
+
+  def 
 ```
 
 <h3> 🛠 &nbsp;hmm</h3>
