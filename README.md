@@ -8,7 +8,7 @@ class self():
     self.tools = {
       'main': ['jupyter notebooks', 'google collab', 'python', 'R'],
       'machine learning': ['regression', 'classification', 'scikit-learn'],
-      'eda': ['pandas', 'numpy', 'matplotlib, 'seaborn', 'plotly'], 
+      'eda': ['pandas', 'numpy', 'matplotlib', 'seaborn', 'plotly'], 
       'database': ['postgresql'],
       'frontend': ['css', 'html', 'javascript', 'reactjs'],
       'deployment': ['streamlit']
