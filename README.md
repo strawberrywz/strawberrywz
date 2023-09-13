@@ -11,6 +11,6 @@ class self():
       'eda': ['pandas', 'numpy', 'matplotlib', 'seaborn', 'plotly'], 
       'database': ['postgresql'],
       'frontend': ['css', 'html', 'javascript', 'reactjs'],
-      'deployment': ['streamlit']
+      'deployment': ['streamlit'],
     } 
 ```
