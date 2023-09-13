@@ -11,8 +11,6 @@ class self():
       'database': ['postgresql'],
       'frontend': ['css', 'html', 'javascript', 'reactjs'],
     } 
-
-  def 
 ```
 
 <h3> 🛠 &nbsp;hmm</h3>
